@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   IO::Socket: 0
-version: 0.01a
+version: 0.02
